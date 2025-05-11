@@ -2,7 +2,7 @@ from django.shortcuts import render
 from .models import RF_Services,WM_Services,AC_Services 
 from .models import Users
 from django.contrib.auth.models import User, auth
-import pywhatkit as kit
+# import pywhatkit as kit
 import datetime
 # Create your views here.
 
