@@ -1,3 +1,4 @@
+pip==25.1.1
 asgiref==3.6.0
 dj-database-url==2.3.0
 Django==5.2.1 
